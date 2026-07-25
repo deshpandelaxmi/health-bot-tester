@@ -1,0 +1,21 @@
+Patient: Hi. I wanted to know what the process is if I have an urgent medical issue outside of normal office hours?
+Bot: Orthopedics. Part of Pretty Good AI. How may I help you today?
+Patient: Oh, hi. Yes. So I'm looking to schedule an appointment with an orthopedist. But before I do that, I just wanted to verify something quickly. Are you in network with Blue Shield PPO? I have Blue Shield PPO coverage, and I wanna make sure the doctor would be covered under my plan.
+Bot: I see you're calling from the number we have on file. I speaking with Sarah?
+Patient: Actually, it's Maya Lynn. I'm calling to check on my insurance coverage before I schedule. So can you tell me if you're in network with Blue Shield PPO?
+Bot: I can check that for you. 1st, may I have your full date of birth?
+Patient: Sure. It's May 14th 19 88.
+Bot: Just to confirm, I have your name as Maya Lin and your date of birth as May 14th 19 88. Is that correct? If so, could you please spell your 1st and last name for me?
+Patient: Yes. That's all correct. It's m a y a and then l I n.
+Bot: Would you like me to look up your record using the phone number you have on file with us? If so, please provide that number. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+Patient: Know what? You can just look it up with the phone number on file. That should be fine.
+Bot: Great. Please tell me the phone number you have on file with us, just to make sure I have the right 1.
+Patient: Oh, um, I don't actually have that handy right now. But you said you already have the number I'm calling from on file. Right? Can't you just use that?
+Bot: I have your number as 9 2 0 4 1 5 9 0 2 6 Is that correct?
+Patient: Yes. That's correct.
+Bot: Just to confirm, your phone number is 9 2 0 4 1 5 9 0 2 and your date of birth is May 14th 19 88. Is that right?
+Patient: Yes. That's all correct. So can you check whether you're in network with Blue Shield PPO for me?
+Bot: Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line.
+Patient: Okay.
+Bot: Goodbye.
+Patient: Wait. Hold on. Before you go, did you find out if you're in network with Blue Shield PPO? I really just need a quick answer on that.

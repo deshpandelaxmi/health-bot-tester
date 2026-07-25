@@ -1,0 +1,21 @@
+Patient: Hi. I've been having a persistent cough for 3 days, and I'd like to schedule an appointment with a doctor this week.
+Bot: Thanks for calling PivotPoint Orthopedics. Part of Pretty Good AI. May I help you today?
+Patient: Oh, hi. Yes. Thanks for picking up. Before I schedule an appointment, I just wanted to verify something quickly. Are you in network with Blue Shield PPO? I wanna make sure my insurance will cover the visit.
+Bot: You're calling from the number we have on file. Am I speaking with Sarah?
+Patient: No. Actually, it's Maya Lin. I think there might be some mix up with the number on file. But like I said, I just need to know if you guys are in network with Blue Shield PPO before I book any of them.
+Bot: Can you please provide your full name and date of birth? I'll check your insurance details for you.
+Patient: Sure. It's Maya Lin. M a y a l I n. And my date of birth is March 15th 19 89.
+Bot: Just to confirm, I had your name as Mya Lin. And your date of birth as March 15th 19 89. Is that correct?
+Patient: Actually, it's m a y a, not m y a. Mylan. But, yeah, the date of birth is correct. March 15th 19 89. So can you check if you're in network with Blue Shield PPO for me?
+Bot: Would you like me to look up your record using a phone number? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+Patient: Oh, I'm not really sure what number I gave you guys when I called in before. Just go ahead and use my name and date of birth. Maya Lin, March 15th 19 89.
+Bot: Let's confirm your details 1 more time. Please spell out your 1st and last name and confirm your date of birth.
+Patient: Sure. My 1st name is m a y a.
+Bot: Go ahead and spell your 1st and last name for me and confirm your date of birth.
+Patient: Yeah. Sure. M a y a, 1st name, Last name is l I n, and my date of birth is March 15th 19 89. Can you look that up for me so you can tell me if you're in network with Blue Shield PPO
+Bot: I have your 1st name as Maya. Last name, Lynn. Date of birth, March 15th 19 89. And your phone number as 9 2 0 4 1 5 9 0 2 6 Is all of that correct?
+Patient: Actually, my last name is l I n. Not l y n n. It's just l I n. But, yeah, everything else looks right. So can you check now if you're in network with Blue Shield PPO?
+Bot: I'm unable to confirm your insurance details right now. I'll connect you to our patient support team so they can help you directly. Please stay on the line. Connecting you to a representative. Please wait.
+Patient: Okay.
+Bot: Hello. You've reached the Pretty Good AI test line. Goodbye.
+Patient: Oh, wait. Call ends.

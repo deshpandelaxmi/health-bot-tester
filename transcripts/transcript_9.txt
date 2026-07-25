@@ -1,0 +1,15 @@
+Patient: Hi. I was seen by the doctor 2 days ago for flu symptoms and wanted to leave a quick update for the nurse.
+Bot: Point Orthopedics. Part of Pretty Good AI. How may I help you today?
+Patient: Oh, hi. Thanks for picking up. I'm Maya Lin. I was a patient here a couple days ago. Actually, before I leave that message, I just need to quickly verify something about my insurance. Do you happen to know if you guys are in network with Blue Shield PPO? I wanna make sure I'm covered before I get any bills.
+Bot: Please provide your date of birth so I can look up your information.
+Patient: Sure. It's March 15th 19 88.
+Bot: Just to confirm, I have your name as my Lynn and your date of birth as March 15th 19 88. Is that correct? If so, could you please spell your 1st and last name for me?
+Patient: Oh, actually, it's Maya. M a y a, and the last name is Lynn, l I n. So Maya Lin, not my Lin. But, yes, March 15th 19 88 is correct.
+Bot: Would you like me to look up your record using a phone number you have on file with us? If so, please provide that number. If you're not sure, I can confirm your name and date birth again. Which would you prefer?
+Patient: Yeah. A phone number would be easier. Let me think. It's 5 1 0 5 5 5 0 1 4 7.
+Bot: I have your phone number as 5 1 0 5 5 5 0 1 4 7. And your date of birth as March 15th 19 88. Is that correct?
+Patient: Yes. That's all correct.
+Bot: 1 moment while I look up your information.
+Patient: Thanks. I appreciate it.
+Bot: I can't proceed further right now, but I'll make sure our clinic support team follows up with you about your insurance question. Please stay on the line while I document this for our team. Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+Patient: Wait. Hold on. I just needed a quick answer about whether you're in network with Blue Shield PPS. Can someone help me with that?

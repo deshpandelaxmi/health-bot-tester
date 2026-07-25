@@ -1,0 +1,14 @@
+Patient: Hi there. Could you tell me your weekend clinic hours and whether walk in visits are allowed?
+Bot: Idol. For calling PivotPoint Orthopedics, part of Pretty Good AI. How may I help you today?
+Patient: Oh, hi. Thanks for picking up. My name is Maya Lin. I'm calling to verify something about insurance before I schedule an appointment. I was wondering if you guys are in network with Blue Shield PPO. I wanna make sure before I come in.
+Bot: I see you're calling from the number we have on file. Am I speaking with Sarah?
+Patient: No. This is Maya Lin. That must be an old number or something. But anyway, I was just trying to find out if you're in network with Blue Shield PPO. That's my insurance, and I wanna make sure everything's covered before I book an appointment.
+Bot: Could you please provide your full date of birth? Needed to look up your information.
+Patient: Sure. It's March 15th 19 88, but actually, I don't have my new insurance card yet, so I can't give you a policy number or anything like that. I just really need to know if you're in network with Blue Shield PPO. That's the main thing I'm trying to figure out before I schedule.
+Bot: Just to confirm, I have your name as Myo Lin. And your date of birth as March 15th 19 88. Is that correct?
+Patient: It's actually Maya Lynn, m a y a. But, yes, the date of birth is correct. March 15th 19 88. But like I said, I mainly just need to know if you guys accept Blue Shield PPO. Can you help me with that?
+Bot: Would you like me to look up your record using the phone number you have on file with us? If so, could you please provide that number? If you're not sure, just confirm your 1st and last name and date of birth by spelling them out for me.
+Patient: Okay. Sure. My 1st name is m a y a, and my last name is l I n. And my date of birth is March 15th 19 88. Honestly, I'm just calling to find out if you're in network with Blue Shield PPO. Can you just let me know that? That's really all I need to know today.
+Bot: David Point Orthopedics accepts most major insurance plans, including many Blue Shield PPO plans. However, coverage can vary by specific policy. To be certain, I recommend calling the number on your insurance card or checking with your insurance provider to confirm your in network benefits for our clinic. Would you like help with anything else?
+Patient: Oh, okay. So you do accept Blue Shield PPO plans generally. That's good to know. Thanks for letting me know. I should double check with my insurance company to confirm. That's helpful. Um, I think that's all I needed for now. I appreciate your help.
+Bot: You're welcome. If you have more questions or want to schedule an appointment, just give us a call. Have a great day.

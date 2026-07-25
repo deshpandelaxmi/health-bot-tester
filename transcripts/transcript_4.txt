@@ -1,0 +1,13 @@
+Patient: Hello. I received a bill in the mail for my recent visit, and I have a question about 1 of the charges.
+Bot: Thanks for calling PivotPoint Orthopedics, part of Pretty Good AI. How may I help you today?
+Patient: Hi. Thanks for picking up. My name is Maya Lin, I'm calling to verify something about my insurance coverage. I have a Blue Shield PPO plan, and I just wanna confirm that your office is in network with them before I deal with this bill. Can you help me with that?
+Bot: Can you please provide your date of birth? I need it to look up your information.
+Patient: Sure. My date of birth is March 15th 19 88.
+Bot: Just to confirm, can you please spell your 1st and last name for me? I have your date of birth as March 15th 19 88.
+Patient: Of course. My 1st name is m a y a, and my last name is l I n.
+Bot: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, let me know, and I can confirm your name and date of birth again.
+Patient: You know what? I'm not entirely sure what number I have on file with you guys. Uh, but honestly, I don't think I need to give all that information. I really just need a quick answer. Are you in network with Blue Shield PPO? That's the main thing I'm trying to find out before we go any further with the bill.
+Bot: Pivot Point Orthopedics accepts most major insurance plans. Including many Blue Shield PPO plans. However, coverage can vary by specific plan and network. For the most accurate answer, it's best call the number on your insurance card or check your plan's provider directory. If you want, I can also connect you to our billing team for a detailed review. Would you like to do that?
+Patient: Okay. I appreciate that. Yeah. That makes sense. I know coverage can vary. Don't have my new card yet, so I can't call that number right now. But it sounds like you're generally in network with Blue Shield PPO plans, which is helpful to know. I think I'll just check the provider directory online when I get a chance. Thank you so much for your help.
+Bot: You're welcome. If you have more questions or need help with your bill or insurance details, just give us a call. Have a great day.
+Patient: Thank you. I will. Have a great day too.

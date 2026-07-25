@@ -1,0 +1,17 @@
+Patient: Hello. I had blood work done last Tuesday. And was calling to see if my lab results are available yet.
+Bot: Calling PivotPoint Orthopedics. Part of Pretty Good AI. How may I help you today?
+Patient: Oh, hi. I think I may have reached the wrong office. I'm actually calling to verify my insurance cover. I am a patient named Maya Lin. And I need to confirm whether you're in network with Blue Shield PPO. Can you help me with that?
+Bot: I can check that for you. Please provide your date of birth.
+Patient: Sure. My date of birth is March 15th 19 89.
+Bot: I have your name as Maya Lin and your date of birth as March 15th 19 89. Could you please spell out your 1st and last name to confirm?
+Patient: Of course, My 1st name is m a y a. And my last name is l I n.
+Bot: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, I can confirm your name and date of birth again. Which would you prefer?
+Patient: Actually, I think it might be easier to just ask, are you in network with Blue Shield PPO? That's really all I need to know right now. I don't have my new insurance card yet. So I'm just trying to confirm that before my next visit.
+Bot: Understand. To confirm insurance network status, I do need to verify your patient record for Act accuracy. Would you like to use your phone number to look up your record, or would you prefer to confirm your name and date of birth again?
+Patient: Okay. Sure. My phone number is 5 1 0 5 5 0 1 4 7.
+Bot: I have your phone number as 5 1 0 5 5 0 1 4 7 and your date of birth as March 15th 19 89. Is that correct?
+Patient: Yes. That's all correct.
+Bot: I see you're calling from the number we have on file. Am I speaking with Sarah?
+Patient: No. This is Maya Lin. That's the name I gave you at the beginning of the call.
+Bot: Thanks for clarifying. I'm unable to verify your patient record right now, so I can't confirm insurance details. I'll connect you to our patient support team for help. Please stay on the line. Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+Patient: Oh, okay. Thank you, anyway. I appreciate your help. Goodbye.

@@ -1,0 +1,21 @@
+Patient: Hi. My primary doctor suggested I see a dermatologist. Do I need a formal referral from your clinic 1st?
+Bot: Point Orthopedics. Part of Pretty Good AI. How may I help you today?
+Patient: Oh, hi. Yes. I'm calling to verify my insurance coverage. My name is Maya Lin. I have a Blue Shield PPO plan. And I just need to confirm that you guys are in network with them.
+Bot: I see you're calling from the number we have on file. Am I speaking with Sarah?
+Patient: No. This is Maya Lin. I'm the patient. I'm just calling to check if your office is in network with my Blue Shield PPO insurance plan.
+Bot: Please provide your date of birth so I can look up your information.
+Patient: Sure. It's March 15th 19 89.
+Bot: Just to confirm, I have your name as Mya Lin, and your date of birth as March 15th 19 80? Is that correct?
+Patient: Actually, no. It's Maya Lin. M a y a, and my date of birth is March 15th 19 89, not 19 80. Can you correct that in your system?
+Bot: Would you like me to look up your record using the phone number you have on file with us? If so, please provide that number. If you're not sure, I can confirm your name and date of birth again. Just let me know would you prefer.
+Patient: Oh, sure. You can use the phone number you have on file. That should be easier than going through all this again.
+Bot: Please tell me the phone number you have on file with us just to make sure I have the correct 1.
+Patient: Um, I'm not sure what number I gave you when I signed up. Can you just look it up on your end? I'm really just calling to find out if you're in network with Blue Shield PPO. Do you have that information available?
+Bot: I do need to confirm your information before I can check your insurance details. Could you please spell your 1st and last name and confirm your date of birth 1 more time?
+Patient: Okay. Sure. My 1st name is m a y a, and my last name is l I n. And my date of birth is March 15th 19 89. Does that match what you have now?
+Bot: I have your name as Maya Lin. Your date of birth as March 15th 19 89. And your phone number as 9 2 0 4 1 5 9 0 2 6. Is all of that correct?
+Patient: Yes. That's all correct. Thank you. So can you tell me if Point Orthopedics is in network with Blue Shield PPO?
+Bot: I'm unable to confirm your insurance details right now. I can connect you to our patient support team for help with your Blue Shield PPO question. Would you like me to transfer you?
+Patient: Yes. That would be great. Thank you for transferring me to the patient support team.
+Bot: Connecting you to a representative. Please wait. Hello. You've reached the Pretty Good AI test line. Goodbye.
+Patient: Wait. Hello? Are you there? Listening to dial tone. Okay. I guess that didn't work out. But thank you anyway for trying to help me with that transfer.

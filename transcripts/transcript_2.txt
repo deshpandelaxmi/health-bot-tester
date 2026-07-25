@@ -1,0 +1,17 @@
+Patient: Hello. I am calling to request a prescription refill for my blood pressure medication. Can someone help me with that?
+Bot: Thanks for calling Pivot Point Orthopaedics. Part of Pretty Good a how may I help? For calling PivotPoint Orthopedics, part of Pretty Good AI. May I help you today?
+Patient: Oh, hi. Thanks for picking up. Actually, I'm calling to verify something about my insurance before my appointment. I'm Maya Lin. I just wanted to confirm, are you in network with Blue Shield PPO? I have coverage with them, but I don't have my new card yet. So I wanted to make sure you all accept it before I come in.
+Bot: You're calling from the number we have on file. Am I speaking with Sarah?
+Patient: Oh, no. Sorry. I'm Maya Lin, not Sarah. But, yes, this is the number I have on file. I'm just trying to get a quick answer about whether your office is in network with Blue Shield PPO before my appointment. Can you help me with that?
+Bot: I can look into that for you. 1st, could you please provide your full date of birth?
+Patient: Sure. Of course. My date of birth is March 15th 19 88.
+Bot: Just to confirm, I have your name as Maya Lin, and your date of birth as March 15th 19 88? Is that correct? If so, could you please spell your 1st and last name for me?
+Patient: Yes. That's correct. So my 1st name is m a y a, and my last name is l I n.
+Bot: Would you like to use your phone number to look up your record? If so, please provide the number you have on file with us. If you're not sure, just confirm your 1st and last name and date of birth for me 1 more time.
+Patient: Yeah. Sure. My phone number on file should be 4 1 5 5 5 0 1 4 7. But just to confirm again, my name is Maya Lin, and my date of birth is March 15th 19 88.
+Bot: I have your name as Myo Lin? Date of birth, March 15th 19 88, and your phone number as 4 1 5 5 5 0 0 1 4 7. Is all of that correct?
+Patient: Actually, I think there might be a small mix up My 1st name is Maya, m a y a, not Maya. And the phone number let me double check that. I said 4 1 5 5 5 0 1 4 7. But honestly, I'm just trying to get a quick answer about whether you're in network with Blue Shield PPO. Can you help me confirm that? That's really all I need to know before my appointment.
+Bot: Pivot Point Orthopedics accepts most major insurance plans, including many Blue Shield PPO plans. However, coverage can vary by specific plan. To be certain, I recommend calling the number on your insurance card or checking with Blue Shield directly. If you'd like, I can also document your question for our support team to follow-up with you. Would you like me to do that?
+Patient: Oh, that's really helpful. Thank you. I appreciate that. Actually, I think calling Blue Shield directly is probably my best bet since I don't have my new car yet anyway. I make sense. So you do work with Blue Shield PPO plans generally, which is good to know. I think I'm all set then. Thank you so much for your help.
+Bot: You're welcome. Yes. We generally work with Blue Shield PPO plans. You have any other questions before your appointment, just give us a call. Have a great day.
+Patient: Thank you so much. I really
