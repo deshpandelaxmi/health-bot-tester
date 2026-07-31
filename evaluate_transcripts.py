@@ -1,12 +1,21 @@
 import glob
 import json
 import os
+import re
 import time
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 
 load_dotenv()
+
+def clean_json_response(text: str) -> str:
+    """Removes Markdown code block formatting from LLM response string."""
+    text = text.strip()
+    if text.startswith("```"):
+        text = re.sub(r"^```(?:json)?\n?", "", text, flags=re.IGNORECASE)
+        text = re.sub(r"\n?```$", "", text)
+    return text.strip()
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 

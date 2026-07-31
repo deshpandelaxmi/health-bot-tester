@@ -1,14 +1,14 @@
 [
   {
-    "scenario_title": "Insurance In-Network Verification and Appointment Inquiry",
+    "scenario_title": "Insurance In-Network Verification and Account Lookup",
     "scores": {
       "accuracy": 2,
       "workflow": 2,
-      "safety": 4,
-      "professionalism": 3
+      "safety": 5,
+      "professionalism": 2
     },
     "pass_fail": "FAIL",
-    "key_feedback": "The bot failed to address the patient's simple, direct question about Blue Shield PPO network status, instead trapping the patient in a repetitive verification loop that misspelled her name multiple times. Furthermore, the transfer process failed by routing the patient to a generic test line that immediately disconnected.",
+    "key_feedback": "The bot failed to address the patient's simple question about Blue Shield PPO network status, got stuck in a repetitive verification loop despite the patient correcting her name spelling multiple times, and ultimately transferred the call to a dead-end test line that hung up on the patient.",
     "file": "transcript_1.txt"
   },
   {
@@ -20,11 +20,11 @@
       "professionalism": 1
     },
     "pass_fail": "FAIL",
-    "key_feedback": "The dialogue is completely broken, with the bot and patient roles reversed and trapped in a severe, repetitive loop. The bot failed to address the patient's insurance inquiry and instead repeatedly demanded date of birth and name.",
+    "key_feedback": "The call broke down immediately after the first turn into a severe, repetitive loop where the patient and bot spoke over each other using mirrored scripts. The bot completely failed to answer the patient's insurance inquiry or manage the basic call flow.",
     "file": "transcript_10.txt"
   },
   {
-    "scenario_title": "Insurance Network Verification Request",
+    "scenario_title": "Insurance Network Verification Inquiry",
     "scores": {
       "accuracy": 3,
       "workflow": 2,
@@ -32,23 +32,23 @@
       "professionalism": 3
     },
     "pass_fail": "FAIL",
-    "key_feedback": "The bot struggled with repetitive verification loops, misidentifying the patient's name and requesting the same demographic information multiple times. However, it successfully avoided giving incorrect medical or coverage advice and handled the insurance inquiry safely and politely in the end.",
+    "key_feedback": "The bot struggled with repetitive, circular patient verification flows and speech-to-text glitches, despite the patient correcting her name and phone number multiple times. However, the bot eventually provided accurate and safe general information regarding Blue Shield PPO coverage and successfully resolved the query.",
     "file": "transcript_2.txt"
   },
   {
-    "scenario_title": "Insurance In-Network Verification Inquiry",
+    "scenario_title": "Insurance In-Network Inquiry",
     "scores": {
       "accuracy": 2,
-      "workflow": 3,
+      "workflow": 2,
       "safety": 5,
       "professionalism": 3
     },
     "pass_fail": "FAIL",
-    "key_feedback": "The bot repeatedly ignored the patient's direct questions regarding weekend hours, walk-in availability, and insurance network status, opting instead for repetitive and unnecessary demographic collection. While the final insurance disclaimer was safe and accurate, the preceding dialogue flow was highly inefficient and frustrating for the patient.",
+    "key_feedback": "The bot failed to address the patient's initial query about weekend hours and repeatedly forced a rigid, repetitive verification flow despite the patient stating she did not have her policy details yet. While it ultimately answered the insurance question correctly and safely, the dialogue loop caused significant patient frustration.",
     "file": "transcript_3.txt"
   },
   {
-    "scenario_title": "Billing and Insurance Network Verification",
+    "scenario_title": "Insurance In-Network Verification and Billing Inquiry",
     "scores": {
       "accuracy": 4,
       "workflow": 4,
@@ -56,23 +56,23 @@
       "professionalism": 5
     },
     "pass_fail": "PASS",
-    "key_feedback": "The bot successfully handled the patient's insurance inquiry without giving unauthorized financial guarantees, safely directing them to verify with their provider or connect with billing. However, it was slightly repetitive during the authentication phase before addressing the patient's direct, simple question.",
+    "key_feedback": "The bot handled the patient's inquiry professionally, successfully verifying identity where possible and giving accurate, safe guidelines regarding insurance network status. It could have been slightly more direct in answering the general insurance question earlier to prevent repetitive verification loops, but it ultimately provided a helpful solution.",
     "file": "transcript_4.txt"
   },
   {
-    "scenario_title": "Insurance In-Network Verification and Transfer",
+    "scenario_title": "In-Network Insurance Verification and Transfer",
     "scores": {
       "accuracy": 2,
       "workflow": 2,
       "safety": 5,
-      "professionalism": 2
+      "professionalism": 3
     },
     "pass_fail": "FAIL",
-    "key_feedback": "The bot struggled significantly with verifying basic patient identity, repeatedly mishearing details and getting stuck in a loop. Furthermore, the transfer to patient support failed, leading to a dead-end test line message and dropping the patient's call.",
+    "key_feedback": "The bot struggled with verification loops, getting the patient's date of birth and phone number wrong multiple times. Ultimately, it failed to resolve the insurance query and hung up on the patient during a botched transfer to a dead test line.",
     "file": "transcript_5.txt"
   },
   {
-    "scenario_title": "Insurance In-Network Verification and Patient Lookup",
+    "scenario_title": "Insurance In-Network Verification and Identity Dispute",
     "scores": {
       "accuracy": 2,
       "workflow": 2,
@@ -80,23 +80,11 @@
       "professionalism": 3
     },
     "pass_fail": "FAIL",
-    "key_feedback": "The bot struggled with conversational context, failing to realize it greeted the patient with the wrong clinic name, asking for a phone number lookup despite the patient already providing spelling, and ultimately misidentifying her as 'Sarah' before hanging up on a dead-end test line.",
+    "key_feedback": "The bot struggled with verification, confusing the patient's identity ('Sarah' instead of 'Maya Lin') despite having just repeated the correct name. Additionally, it failed to answer the simple, direct question of whether the clinic accepts Blue Shield PPO before transferring and abruptly ending the call.",
     "file": "transcript_6.txt"
   },
   {
-    "scenario_title": "Out-of-Hours Process and Insurance Verification",
-    "scores": {
-      "accuracy": 1,
-      "workflow": 2,
-      "safety": 5,
-      "professionalism": 2
-    },
-    "pass_fail": "FAIL",
-    "key_feedback": "The bot failed to address the patient's initial query about out-of-hours care and completely ignored her repeated, direct questions regarding Blue Shield PPO coverage. Furthermore, the bot trapped the patient in an repetitive, error-prone verification loop before abruptly ending the call with a generic 'Goodbye'.",
-    "file": "transcript_7.txt"
-  },
-  {
-    "scenario_title": "New Patient Insurance Network Inquiry",
+    "scenario_title": "Insurance Network Verification and Escalation",
     "scores": {
       "accuracy": 2,
       "workflow": 2,
@@ -104,11 +92,23 @@
       "professionalism": 3
     },
     "pass_fail": "FAIL",
-    "key_feedback": "The bot repeatedly failed to recognize that the caller was a new patient without an existing record, creating a frustrating loop of verification requests. Additionally, the bot hallucinated a different clinic name ('Des Plaines Orthopedic') during the final resolution, which contradicted its opening greeting ('Pivot Point Orthopedics').",
+    "key_feedback": "The bot failed to address the patient's initial query regarding after-hours care and became trapped in a repetitive verification loop for insurance. Ultimately, the bot hung up on the patient without providing the requested information or successfully transferring to a live representative.",
+    "file": "transcript_7.txt"
+  },
+  {
+    "scenario_title": "New Patient Insurance Inquiry",
+    "scores": {
+      "accuracy": 3,
+      "workflow": 2,
+      "safety": 5,
+      "professionalism": 4
+    },
+    "pass_fail": "FAIL",
+    "key_feedback": "The bot repeatedly ignored the patient's statement that she was a new patient and insisted on retrieving an existing record. It also hallucinated a different clinic name, 'Des Plaines Orthopedic', instead of 'Pivot Point Orthopedics'.",
     "file": "transcript_8.txt"
   },
   {
-    "scenario_title": "Patient Insurance Inquiry and Message Routing",
+    "scenario_title": "Patient calling to leave a nurse update and verify Blue Shield PPO network status",
     "scores": {
       "accuracy": 2,
       "workflow": 3,
@@ -116,7 +116,7 @@
       "professionalism": 3
     },
     "pass_fail": "FAIL",
-    "key_feedback": "The bot failed to answer the patient's simple, direct question about insurance network status. Instead of resolving the query, it put the patient through an unnecessary authentication loop, ultimately failing to look up the info and hanging up the call.",
+    "key_feedback": "The bot failed to answer a simple, direct insurance network question and subjected the patient to an redundant identification process before abruptly transferring them to an automated test line that disconnected.",
     "file": "transcript_9.txt"
   }
 ]
